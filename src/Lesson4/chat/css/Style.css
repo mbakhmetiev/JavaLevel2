@@ -1,0 +1,11 @@
+#mainVbox {
+    -fx-background-color: grey;
+}
+
+#textArea {
+    text-area-background: gainsboro;
+}
+
+.text-area .content {
+    -fx-background-color: text-area-background ;
+}
